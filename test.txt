@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-testtest2aaabbb
-=======
-testtest2plala
->>>>>>> add
+test
+
+test2
+
+aaa
+
+bbb
+
+ccc
+
